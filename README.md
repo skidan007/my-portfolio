@@ -1,41 +1,36 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://github.com/joshmadakor1">Front End Developer</a>, <a href="https://www.linkedin.com/in/daniel-benard-b6abb9141/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@BibleBliss101">YouTuber</a></h1>
+<h1>Hi, I'm Daniel! <br/><a href="https://github.com/skidan007">Front End Developer</a>, <a href="https://www.linkedin.com/in/daniel-benard-b6abb9141/">Social Media Manager</a>, <a href="https://www.youtube.com/@BibleBliss101">Content Creator</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  
+<h2> 📄 Certificationss</h2> 
+- [Programming Foundations with JavaScript, HTML and CSS](https://www.coursera.org/account/accomplishments/verify/M93AF7XCLTK5?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
+- [Career Essentials in Generative AI by Microsoft and LinkedIn](https://media.licdn.com/dms/image/v2/D4D22AQG8JVBnW53QtA/feedshare-shrink_1280/feedshare-shrink_1280/0/1733576929392?e=1746662400&v=beta&t=Wcu9cmvpKMnesaVa0usl1ujbDhnUpFAvB3TBxlQ4JY4)
+- [Ethics in the Age of Generative AI](https://media.licdn.com/dms/image/v2/D4D22AQFWy5tQiH5XmA/feedshare-shrink_1280/feedshare-shrink_1280/0/1733517172635?e=1746662400&v=beta&t=vATuxngFCk9l3tUuT8oG2SdcMnz94SE7vpVLUNqbzdk)
+- [Learning Microsoft 365 Copilot and Business Chat](https://media.licdn.com/dms/image/v2/D4D22AQHgnNNchD1XFQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1733510828214?e=1746662400&v=beta&t=9d1nXDSBdur6Nva0tXeMugDKaDd1Sedzd2Md4VnvtJ8)
+  
 
-<h2>📺 Popular YouTube Videos</h2>
+<!--<h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)   -->
+
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!--[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
 
-[twitter]: https://twitter.com/joshmadakor
+[twitter]: https://x.com/kingDan1010
 [youtube]: https://www.youtube.com/@BibleBliss101
-[instagram]: https://www.instagram.com/joshmadakor/
+<!--[instagram]: https://www.instagram.com/joshmadakor/-->
 [linkedin]: https://www.linkedin.com/in/daniel-benard-b6abb9141/
 
 <!--
