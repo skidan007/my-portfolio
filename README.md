@@ -4,6 +4,7 @@
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Laundry web project](https://github.com/skidan007/laundry)
+  - [Price Grid](https://github.com/skidan007/price-grid)
   
 <h2> 📄 Certificationss</h2> 
 
