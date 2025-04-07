@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://github.com/skidan007">Front End Developer</a>, <a href="https://www.linkedin.com/in/daniel-benard-b6abb9141/">Social Media Manager</a>, <a href="https://www.youtube.com/@BibleBliss101">Content Creator</a></h1>
+<h1>Hi, I'm Daniel!
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -6,6 +6,7 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   
 <h2> 📄 Certificationss</h2> 
+
 - [Programming Foundations with JavaScript, HTML and CSS](https://www.coursera.org/account/accomplishments/verify/M93AF7XCLTK5?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
 - [Career Essentials in Generative AI by Microsoft and LinkedIn](https://media.licdn.com/dms/image/v2/D4D22AQG8JVBnW53QtA/feedshare-shrink_1280/feedshare-shrink_1280/0/1733576929392?e=1746662400&v=beta&t=Wcu9cmvpKMnesaVa0usl1ujbDhnUpFAvB3TBxlQ4JY4)
 - [Ethics in the Age of Generative AI](https://media.licdn.com/dms/image/v2/D4D22AQFWy5tQiH5XmA/feedshare-shrink_1280/feedshare-shrink_1280/0/1733517172635?e=1746662400&v=beta&t=vATuxngFCk9l3tUuT8oG2SdcMnz94SE7vpVLUNqbzdk)
